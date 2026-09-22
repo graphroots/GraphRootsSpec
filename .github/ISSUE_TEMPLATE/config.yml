@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Report a security concern (private)
+    url: https://github.com/graphroots/GraphRootsSpec/security/advisories/new
+    about: Please report security-sensitive issues privately, not as a public issue.

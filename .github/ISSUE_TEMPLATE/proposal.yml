@@ -1,0 +1,40 @@
+name: Specification proposal / change
+description: Propose a change or addition to the GraphRoots specification
+title: "[Proposal]: "
+labels: ["proposal"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for proposing a change to GraphRoots. For **normative** changes,
+        please open this proposal for discussion before submitting a pull request.
+  - type: textarea
+    id: summary
+    attributes:
+      label: Summary
+      description: A clear, concise description of the proposed change.
+    validations:
+      required: true
+  - type: textarea
+    id: motivation
+    attributes:
+      label: Motivation
+      description: What problem does this solve? Why is it needed?
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: Proposed details
+      description: The specifics of the change — text, structure, examples.
+    validations:
+      required: false
+  - type: dropdown
+    id: kind
+    attributes:
+      label: Change type
+      options:
+        - Normative (changes requirements)
+        - Editorial (clarification, no change in meaning)
+    validations:
+      required: true

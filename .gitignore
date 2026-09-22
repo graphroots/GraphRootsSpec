@@ -1,0 +1,14 @@
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Editor / IDE
+.idea/
+.vscode/
+*.swp
+*~
+
+# Build / generated output (if spec tooling is added later)
+/build/
+/dist/
+/node_modules/

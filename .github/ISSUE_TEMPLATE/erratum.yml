@@ -1,0 +1,26 @@
+name: Erratum / clarification
+description: Report an error, ambiguity, or needed clarification in the specification
+title: "[Erratum]: "
+labels: ["erratum"]
+body:
+  - type: textarea
+    id: location
+    attributes:
+      label: Location
+      description: Which section or paragraph of the specification?
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem
+      description: What is wrong, unclear, or ambiguous?
+    validations:
+      required: true
+  - type: textarea
+    id: suggestion
+    attributes:
+      label: Suggested fix
+      description: Optional — how would you correct it?
+    validations:
+      required: false

@@ -1,0 +1,8 @@
+# CODEOWNERS for the GraphRoots Specification
+#
+# Code owners are automatically requested for review on pull requests that touch
+# matching paths. See:
+# https://docs.github.com/en/repositories/managing-your-repositories-settings-and-features/customizing-your-repository/about-code-owners
+#
+*   @graphroots/maintainers
+
