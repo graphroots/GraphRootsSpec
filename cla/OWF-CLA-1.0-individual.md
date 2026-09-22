@@ -1,21 +1,15 @@
 # OWF Contributor License Agreement 1.0 — Copyright and Patent (Individual)
 
-This is the **individual** form of the OWF Contributor License Agreement 1.0
-(Patent and Copyright Grants) for the **GraphRoots Specification**. Individual
-contributors agree to this CLA automatically via **CLA Assistant** on their first
-pull request (see [CONTRIBUTING.md](../CONTRIBUTING.md) and [README.md](README.md)).
-
-> **Provenance & verification.** The agreement text below was retrieved verbatim
-> from the Open Web Foundation on 2026-09-22. It is the official OWF CLA 1.0
-> (Copyright and Patent), reproduced here with only the *individual* signature
-> block retained. Confirm it matches the official source before relying on it:
-> https://www.openwebfoundation.org/the-agreements/the-owf-1-0-agreements-granted-claims/owf-contributor-license-agreement-1-0-copyright-and-patent
->
-> This file is the source of truth for the text CLA Assistant presents to
-> contributors — point CLA Assistant at this file (or paste this text into its
-> dashboard) and keep the two in sync.
-
----
+<!--
+Note to maintainers (not shown to signers). The agreement text below was
+retrieved verbatim from the Open Web Foundation on 2026-09-22; it is the official
+OWF CLA 1.0 (Copyright and Patent), individual signature form. Confirm it matches
+the official source before publication:
+https://www.openwebfoundation.org/the-agreements/the-owf-1-0-agreements-granted-claims/owf-contributor-license-agreement-1-0-copyright-and-patent
+CLA Assistant presents this file to individual contributors; keep it and the CLA
+Assistant configuration in sync. How signing works is documented in
+cla/README.md and CONTRIBUTING.md.
+-->
 
 ## Contributor License Agreement (CLA 1.0)
 
@@ -93,11 +87,3 @@ ________________________________________________________________
 
 I acknowledge that, depending upon local law or contractual agreements, when I am employed by or acting on behalf of another entity, the promises I make relating to this Specification may actually be obligations of that other entity. In such a situation, I represent that I have been authorized by that entity to make these promises. I also understand that certain Specification projects may require additional private identifying information or certifications from me before they accept my Contributions.
 
-- Signed name: ______________________________
-- Print name: ______________________________
-- Email address: ______________________________
-- Date: ______________________________
-
-> Contributing on behalf of an organization, or your employer may hold patent
-> rights in your work? Use the entity form instead:
-> [OWF-CLA-1.0-entity.md](OWF-CLA-1.0-entity.md).
