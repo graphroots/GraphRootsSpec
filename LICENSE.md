@@ -4,17 +4,6 @@ The **GraphRoots Specification** is published under the **Open Web Foundation
 Agreement 1.0 (OWFa 1.0) — Patent and Copyright Grants** (the OWF "Final
 Specification Agreement").
 
-> **Provenance & verification.** The agreement text below was retrieved verbatim
-> from the Open Web Foundation on 2026-09-22. Before relying on it for
-> publication, confirm it matches the official source:
-> https://www.openwebfoundation.org/the-agreements/the-owf-1-0-agreements-granted-claims/owfa-1-0
->
-> The OWFa is executed by contributors and supporting organizations when the
-> specification is finalized (see [GOVERNANCE.md](GOVERNANCE.md)). Contributions
-> made during development are governed by the OWF CLA — see the [`cla/`](cla/)
-> folder and [CONTRIBUTING.md](CONTRIBUTING.md). The Specification is identified
-> in the agreement below as the "GraphRoots Specification".
-
 ---
 
 ## Final Specification Agreement (OWFa 1.0)
